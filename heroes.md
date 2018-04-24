@@ -8,3 +8,5 @@
 * Airoman
 * Thor
 * Megamente
+* Edevoar
+* Ben 10
